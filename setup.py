@@ -8,5 +8,5 @@ setup(
     author='R.C. Alvarado',
     author_email='ontoligent@gmail.com',
     license='MIT',
-    packages=['demo']
+    packages=['m09_demo']
 )
